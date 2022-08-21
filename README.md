@@ -9,12 +9,10 @@
 </div>
 <br/>
 <hr/>
-<br/>
-<a href="https://instagram.com/dnpg.dev" target="_blank"><img src="./img/instagram.png" alt="Instagram" width="24"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/diegopego" target="_blank"><img src="./img/linkedin.png" alt="Linked In" width="24"/></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/diegopego" target="_blank">
+<a href="https://instagram.com/dnpg.dev"><img src="./img/instagram.png" alt="Instagram" width="24"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/diegopego"><img src="./img/linkedin.png" alt="Linked In" width="24"/></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/diegopego">
 <img src="./img/twitter.png" alt="Twitter" height="24"/></a>
 </div>
 
-[<img src="./img/instagram.png" alt="Instagram" width="24"/>](https://instagram.com/dnpg.dev){:target="_blank" rel="noopener"}
 <!--
 **dnpg/dnpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
