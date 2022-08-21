@@ -1,9 +1,8 @@
 <div>
   <picture>
     <source srcset="./img/dnpg-logo-white.png" media="(prefers-color-scheme: dark)"/>
-    <img src="./img/dnpg-logo-black.png" alt="dnpg" width="72"/>
+    <img src="./img/dnpg-logo-black.png" alt="dnpg" width="119"/>
   </picture>
-  <br/>
   <br/>
   <h2>Hola, I'm Diego Pelaez</h2>
   - 💬 &nbsp;Ask me about Shopify, Gatsby, Typescript
