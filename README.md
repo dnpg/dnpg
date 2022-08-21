@@ -1,6 +1,6 @@
 <div>
   <picture>
-    <source src="./img/dnpg-logo-black.png" media="(prefers-color-scheme: dark)"/>
+    <source srcset="./img/dnpg-logo-black.png" media="(prefers-color-scheme: dark)"/>
     <img src="./img/dnpg-logo-white.png" alt="dnpg" width="72"/>
   </picture>
   <br/>
